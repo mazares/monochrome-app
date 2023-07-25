@@ -4,7 +4,7 @@ export default function Content(params) {
   return (
     <div className="content container">
       <main className="content container">
-        <HomeCatalogPreview homeCatalogHeader="Better stuff" />
+        <HomeCatalogPreview homecatalogheader="Better stuff" />
 
         <section className="home-catalog-preview">
           <header>
@@ -16,7 +16,7 @@ export default function Content(params) {
               <div className="product-image-container">
                 <a href="" title="MONOCHROME">
                   <img
-                    src="images/products/recently_viewed_thumbnail_2.png"
+                    src="images/products/recently_viewed_thumbnail_2-0.png"
                     alt="MONOCHROME"
                   />
                 </a>

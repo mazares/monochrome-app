@@ -1,0 +1,115 @@
+[
+  {
+    "id": "w1",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-0.png",
+    "name": "john snow",
+    "price": 450,
+    "category": "men"
+  },
+
+  {
+    "id": "w2",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-1.png",
+    "name": "khalesi",
+    "price": 550,
+    "category": "women"
+  },
+  {
+    "id": "w3",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-2.png",
+    "name": "stanis baratheon",
+    "price": 500,
+    "category": "men"
+  },
+  {
+    "id": "w4",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-3.png",
+    "name": "cersei lanister",
+    "price": 600,
+    "category": "women"
+  },
+  {
+    "id": "w5",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-4.png",
+    "name": "aria stark",
+    "price": 650,
+    "category": "women"
+  },
+  {
+    "id": "w6",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-5.png",
+    "name": "ned stark",
+    "price": 450,
+    "category": "men"
+  },
+  {
+    "id": "w7",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-6.png",
+    "name": "the mountain",
+    "price": 550,
+    "category": "men"
+  },
+  {
+    "id": "w8",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-7.png",
+    "name": "brandon",
+    "price": 700,
+    "category": "men"
+  },
+  {
+    "id": "w9",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-8.png",
+    "name": "tywin lanister",
+    "price": 750,
+    "category": "men"
+  },
+  {
+    "id": "w10",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-9.png",
+    "name": "ser loras",
+    "price": 400,
+    "category": "men"
+  },
+  {
+    "id": "w11",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-10.png",
+    "name": "white walker",
+    "price": 500,
+    "category": "men"
+  },
+  {
+    "id": "w12",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-11.png",
+    "name": "aeon targarien",
+    "price": 650,
+    "category": "men"
+  },
+  {
+    "id": "w13",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-12.png",
+    "name": "margaery tyrell",
+    "price": 450,
+    "category": "women"
+  },
+  {
+    "id": "w14",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-13.png",
+    "name": "podryk payne",
+    "price": 550,
+    "category": "men"
+  },
+  {
+    "id": "w15",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-14.png",
+    "name": "melisandre",
+    "price": 750,
+    "category": "women"
+  },
+  {
+    "id": "w16",
+    "image": "../../../public/images/products/recently_viewed_thumbnail_2-15.png",
+    "name": "tyrion lanister",
+    "price": 700,
+    "category": "men"
+  }
+]
